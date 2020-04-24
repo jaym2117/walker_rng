@@ -1,0 +1,23 @@
+td, th, thead {
+    padding: 0;
+    font-size:10px;
+    text-align: center!important;
+}
+
+tr {
+    line-height: 20px;
+}
+
+.client {
+    padding: 15px !important; 
+}
+
+.transparent {
+    opacity: 0.5;
+}
+
+.bold {
+    font-weight: bold;
+    color: black!important;
+    background-color: #FFFFE0!important;
+}
